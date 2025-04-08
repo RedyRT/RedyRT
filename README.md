@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RedyRT&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=RedyRT&theme=react&hide_border=false)<br/>
-![](https://githubstats-laase31u1-colins-projects-17a4e6e7.vercel.app/api/top-langs/?username=RedyRT&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://githubstats-six-swart.vercel.app/api/top-langs/?username=RedyRT&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RedyRT&theme=radical&no-frame=false&no-bg=true&margin-w=4)
